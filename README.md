@@ -74,15 +74,7 @@ Interned on real Figma projects (UI/UX), then dived deep into robust, user-frien
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daksh1993&amp;theme=radical" height="150" />
 </p>
 
----
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daksh1993&theme=dracula&no-bg=true&margin-w=10&column=6" alt="trophies"/>
-</p>
-
----
 
 ## 🎯 Fun Facts & Motto
 
