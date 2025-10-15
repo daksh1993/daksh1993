@@ -45,35 +45,6 @@ Interned on real Figma projects (UI/UX), then dived deep into robust, user-frien
 
 ---
 
-## 🔢 Activity & Dynamic Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daksh1993&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh1993&layout=compact&theme=radical&hide_progress=true" height="160" />
-</p>
-
-<p align="center">
-  <!-- Contribution Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh1993&theme=neon-dark" height="120" />
-</p>
-
-<p align="center">
-  <!-- PRs, Issues, Commits (push) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh1993&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daksh1993&theme=radical&utcOffset=5.5"/>
-</p>
-
----
-
-## 🔥 PR, Issue, and Commit Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repomonster?username=daksh1993&theme=radical" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daksh1993&theme=radical" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daksh1993&amp;theme=radical" height="150" />
-</p>
-
 
 
 ## 🎯 Fun Facts & Motto
