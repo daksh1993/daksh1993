@@ -92,8 +92,4 @@ Interned on real Figma projects (UI/UX), then dived deep into robust, user-frien
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" height="30"/> 
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="300"/>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="300"/>
-</p>
+
